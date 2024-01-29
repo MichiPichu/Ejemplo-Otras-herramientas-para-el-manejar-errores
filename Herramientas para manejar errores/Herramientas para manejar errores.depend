@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706515736 source:c:\users\crist\desktop\septimo semestre\computación tolerante a fallas\herramientas para manejar errores\main.cpp
+	<iostream>
+	<stdexcept>
+
